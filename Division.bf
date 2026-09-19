@@ -1,6 +1,6 @@
 converts from decimal to ascii numbers ig 48 = 0 50 = 2 52 = 4
 performs division by counting the amount of times j is subtracted from k
-only works for 4/2 right now?
+WORKS FOR SINGLE DIGITS
 0 1 2 3 4
 
 4 2 2 0 0 i:3
